@@ -1,4 +1,4 @@
-👋 Hi, I’m @nvm-uli, a C# based in Hamburg, Germany.
+👋 Hi, I’m @nvm-uli, a C# developer based in Hamburg, Germany.
 
 💻 My tech stack:
 c#, .net 5, asp.net, blazor, js, css, scss, low code dev: cherwell service management, outsystems
